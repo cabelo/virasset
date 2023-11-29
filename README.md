@@ -20,6 +20,5 @@ Like all points on the body, neural network inputs can estimate any position. Us
 - Realsense
 - GPUs Iris Max e Iris XE Max
 
-
 ![image](https://github.com/cabelo/virasset/assets/675645/d0a3f58f-f6a8-445c-b169-733ad2ce6ed8)
 
