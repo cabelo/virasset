@@ -1,5 +1,6 @@
 ![image](https://github.com/cabelo/virasset/assets/675645/73c8a4c4-39eb-4060-8b2a-bbde57363fdb)
 
+
 # virasset
 Virasset is a system for Virtual Assessment of Taekwondo that uses artificial neural networks (DNN) to measure strokes in Taekwondo events.
 
@@ -18,6 +19,7 @@ Like all points on the body, neural network inputs can estimate any position. Us
 - OneAPI
 - Realsense
 - GPUs Iris Max e Iris XE Max
+
 
 ![image](https://github.com/cabelo/virasset/assets/675645/d0a3f58f-f6a8-445c-b169-733ad2ce6ed8)
 
